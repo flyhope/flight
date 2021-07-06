@@ -1,0 +1,6 @@
+.*
+*.exe
+tags
+bin
+nbproject
+ftpsync.settings
